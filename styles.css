@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #F5F2E9;
+  color: #5A3E2B;
+}
+
+header {
+  background-color: #D4A017;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: #5A3E2B;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  background-image: url('assets/images/rice-fields.jpg');
+  background-size: cover;
+  padding: 120px;
+  text-align: center;
+  color: white;
+  font-size: 24px;
+}
+
+.content {
+  padding: 40px;
+}
+
+.gallery img {
+  width: 30%;
+  margin: 1%;
+  border-radius: 8px;
+}
